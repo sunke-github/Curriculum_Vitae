@@ -33,6 +33,7 @@ in social networks. In Proceedings of the acm/ieee joint conference on digital l
 |  Date   | Job  | Company |
 |  ---  | ---  | ---|
 |2015 – 2017|Software Engineer|Dareway Software Company Limited, Jinan, Shandong|
+
 ### Skills
  
 |  Skill   | Description  |
@@ -42,6 +43,7 @@ in social networks. In Proceedings of the acm/ieee joint conference on digital l
 |Databases|Mysql, HBase, sqlite|
 |Web Dev|Apache Web Server, Tomcat Web Server|
 |Misc|Academic research, teaching, training, consultation, LATEX typesetting and publishing|
+
 ### Miscellaneous Experience
 #### Awards and Achievements
 ***The Vannevar Bush Best Paper Honorable Mention.*** Awarded by ACM/IEEE Joint Conferences on Digital Libraries (JCDL 2020).<br>
