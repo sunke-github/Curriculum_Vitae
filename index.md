@@ -6,6 +6,8 @@ Email:kern.sun@outlook.com
 ### Research Interests
 
 ### Research Publications
+#### Journal Articles
+#### Conference Proceedings
 
 ### Projects
 
@@ -15,10 +17,8 @@ Email:kern.sun@outlook.com
 
 ### Miscellaneous Experience
 ## Awards and Achievements
-***The Vannevar Bush Best Paper Honorable Mention.*** Awarded by ACM/IEEE Joint Conferences on Digital Libraries (JCDL 2020).
-
-***The Alpha Lab Outstanding Contribution Award.*** Awarded by The Alpha Lab, School of Software, Dalian University of Technology.
-
+***The Vannevar Bush Best Paper Honorable Mention.*** Awarded by ACM/IEEE Joint Conferences on Digital Libraries (JCDL 2020).<br>
+***The Alpha Lab Outstanding Contribution Award.*** Awarded by The Alpha Lab, School of Software, Dalian University of Technology.<br>
 ***The third prize of China Students Service Outsourcing Innovation and Entrepreneurship Competition.*** Awarded by Ministry of Education of the People’s Republic of China, etc.
 
 
