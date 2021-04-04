@@ -5,7 +5,7 @@ Email:kern.sun@outlook.com
 
 ### Research Interests
 ***Knowledge Graph***:Anomaly detection; Knowledge representation learning; Graph visualization;
-Knowledge graph completion.
+Knowledge graph completion.<br>
 ***Graph Learning***: Graph neural network; Graph convolution network; Spring-electrical model.
 ### Research Publications
 #### Journal Articles
