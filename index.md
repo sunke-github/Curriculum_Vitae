@@ -1,5 +1,5 @@
 ## Ke Sun, Ph.D. Candidate
-Email:kern.sun@outlook.commmm
+Email:kern.sun@outlook.com
 
 ### Education
 Ph.D. Candidate, School of Software Technology, DalianUniversity of Technology in Software
