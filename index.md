@@ -24,7 +24,7 @@ in social networks. In Proceedings of the acm/ieee joint conference on digital l
 ### Projects
 |  Date   | Project  | Organization |
 
-|  :--  | :--  | :--|
+|  ---  | ---  | ---|
 
 | 2013 – 2014  | Intelligent Campus Application | Shandong Normal University, Jinan, Shandong    |
 
