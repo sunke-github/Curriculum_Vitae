@@ -35,7 +35,7 @@ in social networks. In Proceedings of the acm/ieee joint conference on digital l
 |2015 – 2017|Software Engineer|Dareway Software Company Limited, Jinan, Shandong|
 
 ### Skills
- 
+
 |  Skill   | Description  |
 |  ---  | ---|
 |Languages|Strong reading, writing and speaking competencies for English, Mandarin Chinese|
