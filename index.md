@@ -26,7 +26,9 @@ in social networks. In Proceedings of the acm/ieee joint conference on digital l
 | 2013 – 2014  | Intelligent Campus Application | Shandong Normal University, Jinan, Shandong    |
 | 2012 – 2013  | School HospitalManagement System|  Shandong Normal University, Jinan, Shandong   |
 ### Employment History
-
+|  Date   | Job  | Company |
+|  ----  | ----  | ----|
+|2015 – 2017|Software Engineer|Software Engineer|
 ### Skills
 |  Skill   | Description  |
 |  ----  | ----  |
