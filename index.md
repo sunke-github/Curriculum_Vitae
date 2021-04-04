@@ -1,4 +1,4 @@
-## Ke Sun, Ph.D.
+## Ke Sun, Ph.D. Candidate
 Email:kern.sun@outlook.com
 
 ### Education
