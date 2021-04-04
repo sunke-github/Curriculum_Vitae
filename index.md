@@ -4,7 +4,9 @@ Email:kern.sun@outlook.com
 ### Education
 
 ### Research Interests
-
+|Knowledge Graph|Anomaly detection; Knowledge representation learning; Graph visualization;
+Knowledge graph completion|
+|Graph Learning|Graph neural network; Graph convolution network; Spring-electrical model|
 ### Research Publications
 #### Journal Articles
 1. ***Sun, K.***, Wang, L., Xu, B., Zhao, W., Teng, S. W., & Xia, F. (2020). Network representation learning:
