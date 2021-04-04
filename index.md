@@ -28,7 +28,7 @@ in social networks. In Proceedings of the acm/ieee joint conference on digital l
 ### Employment History
 |  Date   | Job  | Company |
 |  ----  | ----  | ----|
-|2015 – 2017|Software Engineer|Software Engineer|
+|2015 – 2017|Software Engineer|Dareway Software Company Limited, Jinan, Shandong|
 ### Skills
 |  Skill   | Description  |
 |  ----  | ----  |
