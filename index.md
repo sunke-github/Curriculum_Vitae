@@ -28,7 +28,13 @@ in social networks. In Proceedings of the acm/ieee joint conference on digital l
 ### Employment History
 
 ### Skills
-
+|  Skill   | Description  |
+|  ----  | ----  |
+|Languages|Strong reading, writing and speaking competencies for English, Mandarin Chinese|
+|Coding|Python, Matlab, Java, sql, LATEX|
+|Databases|Mysql, HBase, sqlite|
+|Web Dev|Apache Web Server, Tomcat Web Server|
+|Misc|Academic research, teaching, training, consultation, LATEX typesetting and publishing|
 ### Miscellaneous Experience
 #### Awards and Achievements
 ***The Vannevar Bush Best Paper Honorable Mention.*** Awarded by ACM/IEEE Joint Conferences on Digital Libraries (JCDL 2020).<br>
