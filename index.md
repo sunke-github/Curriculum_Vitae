@@ -22,7 +22,7 @@ on big data (pp. 2987–2994). IEEE.<br>
 2. Xu, J., Yu, S., ***Sun, K.***, Ren, J., Lee, I., Pan, S., & Xia, F. (2020). Multivariate relations aggregation learning
 in social networks. In Proceedings of the acm/ieee joint conference on digital libraries in 2020 (pp. 77–86).
 ### Projects
- 
+
 |  Date   | Project  | Organization |
 |---|---|---|
 | 2013 – 2014  | Intelligent Campus Application | Shandong Normal University, Jinan, Shandong    |
@@ -43,6 +43,7 @@ in social networks. In Proceedings of the acm/ieee joint conference on digital l
 |Databases|Mysql, HBase, sqlite|
 |Web Dev|Apache Web Server, Tomcat Web Server|
 |Misc|Academic research, teaching, training, consultation, LATEX typesetting and publishing|
+
 ### Miscellaneous Experience
 #### Awards and Achievements
 ***The Vannevar Bush Best Paper Honorable Mention.*** Awarded by ACM/IEEE Joint Conferences on Digital Libraries (JCDL 2020).<br>
