@@ -9,6 +9,7 @@ Engineering.
 Knowledge graph completion.<br>
 ***Graph Learning***: Graph neural network; Graph convolution network; Spring-electrical model.
 ### Research Publications
+
 #### Journal Articles
 1. ***Sun, K.***, Wang, L., Xu, B., Zhao, W., Teng, S. W., & Xia, F. (2020). Network representation learning:
 From traditional feature learning to deep learning. IEEE Access, 8, 205600–205617.<br>
