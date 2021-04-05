@@ -4,10 +4,12 @@ Email:kern.sun@outlook.com
 ### Education
 Ph.D. Candidate, School of Software Technology, DalianUniversity of Technology in Software
 Engineering.
+
 ### Research Interests
 ***Knowledge Graph***:Anomaly detection; Knowledge representation learning; Graph visualization;
 Knowledge graph completion.<br>
 ***Graph Learning***: Graph neural network; Graph convolution network; Spring-electrical model.
+
 ### Research Publications
 
 #### Journal Articles
@@ -25,6 +27,7 @@ survey. IEEE Transactions on Technology and Society in Submission.
 on big data (pp. 2987–2994). IEEE.<br>
 2. Xu, J., Yu, S., ***Sun, K.***, Ren, J., Lee, I., Pan, S., & Xia, F. (2020). Multivariate relations aggregation learning
 in social networks. In Proceedings of the acm/ieee joint conference on digital libraries in 2020 (pp. 77–86).
+
 ### Projects
 
 |  Date   | Project  | Organization |
