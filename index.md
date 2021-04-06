@@ -2,8 +2,10 @@
 Email:kern.sun@outlook.com
 
 ### Education
-Ph.D. Candidate, School of Software Technology, DalianUniversity of Technology in Software
-Engineering.
+Ph.D. Candidate, ***School of Software Technology, DalianUniversity of Technology*** in Software
+Engineering.<br>
+M.Sc., ***Shandong Normal University*** in Computer Application Technology.
+
 
 ### Research Interests
 ***Knowledge Graph***:Anomaly detection; Knowledge representation learning; Graph visualization;
