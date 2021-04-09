@@ -37,13 +37,13 @@ in social networks. In Proceedings of the ACM/IEEE Joint Conference on Digital L
 |---|---|---|
 | 2013 – 2014  | Intelligent Campus Application | Shandong Normal University, Jinan, Shandong    |
 | 2012 – 2013  | School Hospital Management System|  Shandong Normal University, Jinan, Shandong   |
-| 2015 – 2017 |Oracel Synchronization platform|Dareway Software Company Limited, Jinan, Shandong|
+| 2015 – 2017 |Oracel Synchronization platform|Dareway Software Co., Ltd, Jinan, Shandong|
 
 ### Employment History
 
 |  Date   | Job  | Company |
 | ---  | ---  | ---|
-|2015 – 2017|Software Engineer|Dareway Software Company Limited, Jinan, Shandong|
+|2015 – 2017|Software Engineer|Dareway Software Co., Ltd, Jinan, Shandong|
 
 ### Skills
 
