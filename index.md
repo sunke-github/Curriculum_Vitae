@@ -26,10 +26,10 @@ survey. IEEE Transactions on Technology and Society in Submission.
 5. ***Sun, K.***, Yu, S., Liu, J., Xu, B., & Xia, F. (2020). Attributed graph force learning. Submitted for Publication.
 
 #### Conference Proceedings
-1. ***Sun, K.***, Liu, J., Yu, S., Xu, B., & Xia, F. (2020). Graph force learning. In 2020 ieee international conference
-on big data (pp. 2987–2994). IEEE.<br>
+1. ***Sun, K.***, Liu, J., Yu, S., Xu, B., & Xia, F. (2020). Graph force learning. In 2020 IEEE International Conference
+on Big dData (pp. 2987–2994). IEEE.<br>
 2. Xu, J., Yu, S., ***Sun, K.***, Ren, J., Lee, I., Pan, S., & Xia, F. (2020). Multivariate relations aggregation learning
-in social networks. In Proceedings of the acm/ieee joint conference on digital libraries in 2020 (pp. 77–86).
+in social networks. In Proceedings of the ACM/IEEE Joint Conference on Digital Libraries in 2020 (pp. 77–86).
 
 ### Projects
 
