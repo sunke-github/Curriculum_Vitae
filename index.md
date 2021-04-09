@@ -52,7 +52,7 @@ in social networks. In Proceedings of the ACM/IEEE Joint Conference on Digital L
 |Languages|Strong reading, writing and speaking competencies for English, Mandarin Chinese|
 |Coding|Python, C++, Java, sql, Matlab, LATEX|
 |Databases|Mysql, HBase, sqlite|
-|Web Dev|Apache Web Server, Tomcat Web Server|
+|Web Dev|Vaadin, Spring MVC, Apache Web Server, Tomcat Web Server|
 |Misc|Academic research, teaching, training, consultation, LATEX typesetting and publishing|
 
 ### Miscellaneous Experience
