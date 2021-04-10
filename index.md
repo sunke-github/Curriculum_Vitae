@@ -35,9 +35,10 @@ in social networks. In Proceedings of the ACM/IEEE Joint Conference on Digital L
 
 |  Date   | Project  | Organization |
 |---|---|---|
+| 2015 – 2017 |Oracel Synchronization Platform|Dareway Software Co., Ltd, Jinan, Shandong|
 | 2013 – 2014  | Intelligent Campus Application | Shandong Normal University, Jinan, Shandong    |
 | 2012 – 2013  | School Hospital Management System|  Shandong Normal University, Jinan, Shandong   |
-| 2015 – 2017 |Oracel Synchronization Platform|Dareway Software Co., Ltd, Jinan, Shandong|
+
 
 ### Employment History
 
@@ -56,6 +57,7 @@ in social networks. In Proceedings of the ACM/IEEE Joint Conference on Digital L
 |Misc|Academic research, teaching, training, consultation, LATEX typesetting and publishing|
 
 ### Miscellaneous Experience
+
 #### Awards and Achievements
 ***The Vannevar Bush Best Paper Honorable Mention.*** Awarded by ACM/IEEE Joint Conferences on Digital Libraries (JCDL 2020).<br>
 ***The Alpha Lab Outstanding Contribution Award.*** Awarded by The Alpha Lab, School of Software, Dalian University of Technology.<br>
