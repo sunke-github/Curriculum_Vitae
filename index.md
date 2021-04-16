@@ -1,6 +1,6 @@
 ## Ke Sun, Ph.D. Candidate
 Email:kern.sun@outlook.com
-![avatar](https://avatars.githubusercontent.com/u/5476963?v=4)
+<img  src="https://avatars.githubusercontent.com/u/5476963?v=4" align='right'/>
 
 
 ### Education
