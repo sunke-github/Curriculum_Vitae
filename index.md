@@ -3,7 +3,7 @@ Email:kern.sun@outlook.com
 <img  src="https://avatars.githubusercontent.com/u/5476963?v=4" width = "150" align='right'/>
 
 ### Education
-Ph.D. Candidate, ***School of Software Technology, DalianUniversity of Technology*** in Software
+Ph.D. Candidate, ***School of Software Technology, Dalian University of Technology*** in Software
 Engineering.<br>
 M.Sc., ***Shandong Normal University*** in Computer Application Technology.
 
