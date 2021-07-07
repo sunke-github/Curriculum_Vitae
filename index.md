@@ -23,8 +23,8 @@ Transactions on Artificial Intelligence.<br>
 3. Wan, L., Sun, L., Kong, X., Yuan, Y., ***Sun, K.***, & Xia, F. (2019). Task-driven resource assignment in mobile
 edge computing exploiting evolutionary computation. IEEE Wireless Communications, 26(6), 94–101.
 4. Ren, J., Xia, F., Chen, X., Liu, J., ***Sun, K.***, & Shatte, A. (2020). Artificial intelligence against covid-19: A
-survey. IEEE Transactions on Technology and Society under Review.
-5. ***Sun, K.***, Liu, J., Xu, B., & Xia, F. (2020). Attributed graph force learning. IEEE Transactions on Neural Networks and Learning Systems under Review.
+survey. IEEE Transactions on Technology and Society, under review.
+5. ***Sun, K.***, Liu, J., Xu, B., & Xia, F. (2020). Attributed graph force learning. IEEE Transactions on Neural Networks and Learning Systems, under review.
 
 #### Conference Proceedings
 1. ***Sun, K.***, Liu, J., Yu, S., Xu, B., & Xia, F. (2020). Graph force learning. In 2020 IEEE International Conference
