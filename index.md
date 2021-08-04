@@ -25,6 +25,9 @@ edge computing exploiting evolutionary computation. IEEE Wireless Communications
 4. Ren, J., Xia, F., Chen, X., Liu, J., ***Sun, K.***, & Shatte, A. (2020). Artificial intelligence against covid-19: A
 survey. IEEE Transactions on Technology and Society, under review.
 5. ***Sun, K.***, Xia, F., Liu, J., Xu, B., Vidya, S., & Aggarwal, C. C. (2020). Attributed graph force learning. IEEE Transactions on Neural Networks and Learning Systems, under review.
+6. ***Sun, K.***, Xu, B., & Xia, F. (2021). COVID-19 datasets: An overview. Computer Science and Information
+Systems, under review.
+
 
 #### Conference Proceedings
 1. ***Sun, K.***, Liu, J., Yu, S., Xu, B., & Xia, F. (2020). Graph force learning. In 2020 IEEE International Conference
@@ -32,7 +35,7 @@ on Big dData (pp. 2987–2994). IEEE.<br>
 2. Xu, J., Yu, S., ***Sun, K.***, Ren, J., Lee, I., Pan, S., & Xia, F. (2020). Multivariate relations aggregation learning
 in social networks. In Proceedings of the ACM/IEEE Joint Conference on Digital Libraries in 2020 (pp. 77–86).
 3. ***Sun, K.***, Xia, F., Yu, S., Li, X., Liu, J., Peng, C., & Mehdi, N. (2021). Abnormal entity-aware knowledge
-graph completion. In 15th international conference on web search and data mining, under review.
+graph completion. In 15th International Conference on Web Search and Data Mining, under review.
 
 ### Projects
 
