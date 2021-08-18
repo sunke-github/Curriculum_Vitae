@@ -24,8 +24,9 @@ Transactions on Artificial Intelligence.<br>
 edge computing exploiting evolutionary computation. IEEE Wireless Communications, 26(6), 94–101.
 4. Ren, J., Xia, F., Chen, X., Liu, J., ***Sun, K.***, & Shatte, A. (2020). Artificial intelligence against covid-19: A
 survey. IEEE Transactions on Technology and Society, under review.
-5. ***Sun, K.***, Xia, F., Liu, J., Xu, B., Vidya, S., & Aggarwal, C. C. (2020). Attributed graph force learning. IEEE Transactions on Neural Networks and Learning Systems, under review.
-6. ***Sun, K.***, Xu, B., & Xia, F. (2021). COVID-19 datasets: An overview. Computer Science and Information Systems, prepare for submission.
+5. ***Sun, K.***, Xia, F., Liu, J., Xu, B., Saikrishna, V., & Aggarwal, C. C. (2020). Attributed graph force learning. IEEE Transactions on Neural Networks and Learning Systems, under review.
+6. ***Sun, K.***, Li, W., Saikrishna, V., Chadhar, M., & Xia, F. (2021). Covid-19 datasets: An overview. Computer Science and Information Systems, under review.
+
 
 
 #### Conference Proceedings
