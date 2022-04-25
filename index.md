@@ -7,7 +7,6 @@ Ph.D. Candidate, ***School of Software Technology, Dalian University of Technolo
 Engineering.<br>
 M.Sc., ***Shandong Normal University*** in Computer Application Technology.
 
-
 ### Research Interests
 ***Knowledge Graph***:Anomaly detection; Knowledge representation learning; Graph visualization;
 Knowledge graph completion.<br>
