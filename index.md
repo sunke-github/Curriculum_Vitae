@@ -25,8 +25,8 @@ edge computing exploiting evolutionary computation. IEEE Wireless Communications
 survey. AI Open, under review.
 5. ***Sun, K.***, Xia, F., Liu, J., Xu, B., Saikrishna, V., & Aggarwal, C. C. (2020). Attributed graph force learning. IEEE Transactions on Neural Networks and Learning Systems, under review.
 6. ***Sun, K.***, Li, W., Saikrishna, V., Chadhar, M., & Xia, F. (2022). Covid-19 datasets: An overview. Computer Science and Information Systems, accepted.
-7. Lin, Q., Yu, S., ***Sun, K.***, Zhao, W., Alfarraj, O., & Tolba, A. (2022). Robust graph neural networks via
-ensemble learning. Multidisciplinary Digital Publishing Institute, accepted.
+7. Lin, Q., Yu, S., ***Sun, K.***, Zhao, W., Alfarraj, O., Tolba, A., & Xia, F. (2022). Robust graph neural networks
+via ensemble learning. Mathematics, 10(8).
 
 
 #### Conference Proceedings
